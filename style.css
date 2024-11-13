@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(24, 53, 23);
+
+}
+
+
+.name {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.09px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 26px 25px;  
+    width: 400px;
+    margin: 0 auto;
+
+}
+.box {
+    width: 940px;
+    height: 550px;
+    background-color: rgb(6, 34, 6);
+    padding: 70px 125px;
+    margin: 20px auto;
+    border: 10px solid red;
+    border-style: dashed;
+}
+
+.fork {
+    margin: 20px 20px;
+    background-color: rgb(37, 202, 139);
+    font-size: 34px;
+    padding: 20px 30px;
+}
